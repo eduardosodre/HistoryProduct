@@ -1,0 +1,4 @@
+rootProject.name = 'HistoryProduct'
+include 'api'
+include 'domain'
+
